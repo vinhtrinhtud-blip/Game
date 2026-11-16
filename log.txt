@@ -1,0 +1,10 @@
+Nhật ký công việc
+Ngày: 2026-11-16
+
+1. Tạo funny-image.svg: tranh minh họa vui về một chú mèo công sở cưỡi tên lửa để đi họp, với cốc cà phê bay phía sau.
+2. Tạo ảnh dạng SVG để giữ hình ảnh sắc nét khi phóng to.
+
+3. Tạo funny-video.gif: GIF hoạt hình 3,84 giây về mèo cưỡi tên lửa, cà phê bay và cảnh đi họp; độ phân giải 720x480, lặp vô hạn.
+
+4. Tạo browser-game.html: game trình duyệt "Mèo Vũ Trụ" — điều khiển tàu mèo hứng cà phê, né thiên thạch; có bàn phím, chuột/cảm ứng và nút chơi lại.
+5. Tạo gametry.py: phiên bản Python dùng Tkinter, không cần cài thư viện bên ngoài; giữ cơ chế chơi và điều khiển tương tự.
